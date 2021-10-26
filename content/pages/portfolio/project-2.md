@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: CaWatch
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/image-2.png
