@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: '"La tecnología como catalizadora de un mundo más humano".'
+subtitle: asasas
 image: /images/1.png
 image_alt: A man taking a picture
 seo:
