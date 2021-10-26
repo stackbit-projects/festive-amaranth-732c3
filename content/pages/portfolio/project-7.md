@@ -1,5 +1,5 @@
 ---
-subtitle: Acava eso
+subtitle: Aca va eso
 date: '2018-01-15'
 thumb_image: /images/image-7-9df46891.png
 thumb_image_alt: A black headphones on a yeallow background
