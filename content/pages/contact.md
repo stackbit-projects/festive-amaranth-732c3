@@ -1,7 +1,7 @@
 ---
 title: >-
-  ¿Deseas una mente abierta para conectar puntos y desarrollar soluciones
-  creativas
+  ¿Deseas una mente abierta para conectar puntos y desarrollar tecnología como
+  catalizadora de un mundo más humano?
 hide_title: false
 sections:
   - section_id: contact-form
