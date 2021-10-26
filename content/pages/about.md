@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: asasas
+subtitle: Esta es una breve página sobre nosotros y nuestro trabajo.
 image: /images/1.png
 image_alt: A man taking a picture
 seo:
