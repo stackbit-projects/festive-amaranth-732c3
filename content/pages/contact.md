@@ -1,5 +1,7 @@
 ---
-title: ¿Deseas una mente abierta
+title: >-
+  ¿Deseas una mente abierta para conectar puntos y desarrollar soluciones
+  creativas
 hide_title: false
 sections:
   - section_id: contact-form
