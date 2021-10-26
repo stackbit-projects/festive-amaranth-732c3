@@ -1,5 +1,4 @@
 ---
-title: Project Title 3
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: /images/image-3-e0dd3855.png
