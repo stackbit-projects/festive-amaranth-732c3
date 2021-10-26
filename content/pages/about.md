@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: Esta es una breve página sobre nosotros y nuestro trabajo.
+subtitle: Esta es una breve página sobre mí y el trabajo más reciente.
 image: /images/1.png
 image_alt: A man taking a picture
 seo:
