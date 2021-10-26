@@ -20,7 +20,9 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-    subtitle: Descubre los retos y trabajos recientes
+    subtitle: >-
+      Me encanta crear ideas de la nada, prototipar y unir a las personas
+      adecuadas para ejecutarla.
   - section_id: services
     type: section_grid
     title: What We Do
