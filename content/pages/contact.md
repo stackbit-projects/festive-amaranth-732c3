@@ -14,7 +14,7 @@ sections:
       formulario de contacto.
 
 
-      ## Contáctame para conectar puntos
+      #### Contáctame para conectar puntos
     form_id: contactForm
     form_action: /thank-you
     form_fields:
