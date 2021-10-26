@@ -5,10 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Juan Sebastián Herrera Carvajal.'
-    content: >+
-      Fiel creyente sobre las posibilidades de nueva visión de ciudadano a
+    content: >
+      Fiel creyente sobre las posibilidades de una nueva visión de ciudadano a
       través del humanismo tecnológico.
-
     actions:
       - label: Hablemos
         url: /contact
