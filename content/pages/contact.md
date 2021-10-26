@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hola, es un gusto tenerte por aquí. Muchas gracias por tu interés en
-      trabajar juntos. Por favor, rellene el siguiente formulario de contacto.
+      Hola, muchas gracias por tu interés en trabajar juntos. Por favor, rellene
+      el siguiente formulario de contacto.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
