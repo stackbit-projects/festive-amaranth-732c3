@@ -20,7 +20,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-    subtitle: Descubre mis trabajos recientes en desarrollo web.
+    subtitle: Descubre los retos y trabajos recientes
   - section_id: services
     type: section_grid
     title: What We Do
