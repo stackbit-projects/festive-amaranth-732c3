@@ -20,6 +20,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+    subtitle: jjmu
   - section_id: services
     type: section_grid
     title: What We Do
