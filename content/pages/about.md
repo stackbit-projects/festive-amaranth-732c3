@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: Esta es una breve página sobre mí y el trabajo más reciente.
+subtitle: '"La tecnología como catalizadora de un mundo más humano".'
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
