@@ -7,8 +7,11 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Muchas gracias por tu interés en trabajar juntos. Por favor, rellene el
-      siguiente formulario de contacto.
+      Muchas gracias por tu interés en trabajar juntos.
+
+
+      Te respondo en un plazo de 24 horas. Por favor, rellene el siguiente
+      formulario de contacto.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
