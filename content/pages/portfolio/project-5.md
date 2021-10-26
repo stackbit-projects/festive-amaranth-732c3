@@ -2,7 +2,7 @@
 title: Overlap in CSS using CSS Grid
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: /images/image-5.png
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
