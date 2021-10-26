@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Yobo.co
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/image-4.png
