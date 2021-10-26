@@ -1,5 +1,5 @@
 ---
-title: ¿Deseas
+title: ¿Deseas una mente abierta
 hide_title: false
 sections:
   - section_id: contact-form
