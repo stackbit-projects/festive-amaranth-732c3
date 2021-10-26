@@ -10,7 +10,7 @@ sections:
       través del humanismo tecnológico.
 
     actions:
-      - label: Let's talk
+      - label: Hablemos
         url: /contact
         style: button
   - section_id: latest-projects
