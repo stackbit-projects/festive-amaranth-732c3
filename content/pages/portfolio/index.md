@@ -1,6 +1,9 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: >-
+  Manejo HTML, CSS, JavaScript y React.js. Cuento con conocimientos
+  complementarios en accesibilidad web, metodologías ágiles, diseño de
+  interfaces en Figma y Responsive Design.
 layout_style: mosaic
 seo:
   title: Portfolio
