@@ -17,7 +17,7 @@ sections:
     layout_style: mosaic
     title: Trabajos recientes
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Ver más
     view_all_url: portfolio
     subtitle: >-
       Me encanta crear ideas de la nada, prototipar y unir a las personas
