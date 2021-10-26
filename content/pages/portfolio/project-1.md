@@ -2,7 +2,7 @@
 title: Cozy Place
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: /images/image-1.png
+thumb_image: /images/image-1-1ab0b613.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
